@@ -1,5 +1,3 @@
-# import imageio
-import cv2
 import imageio.v3 as imageio
 import os
 
